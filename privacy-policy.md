@@ -12,4 +12,4 @@ This app uses the camera to scan barcodes and take product photos.
 We do not collect any personal data. All information stays on your device.
 
 ## Contact
-Email: ghassen.fersi@ensi-uma.tn
+Email: yousefarrat862@gmail.com
